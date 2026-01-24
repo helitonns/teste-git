@@ -2,9 +2,7 @@
 	"devDependencies": {
 		"@commitlint/cli": "^20.3.1",
 		"@commitlint/config-conventional": "^20.3.1",
-		"husky": "^9.1.7"
+		"lefthook": "^2.0.15"
 	},
-	"scripts": {
-		"prepare": "husky"
-	}
+	"scripts": {}
 }
